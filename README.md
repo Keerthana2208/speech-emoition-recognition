@@ -36,4 +36,7 @@ The format you need to have to make the following steps work is:
 4)  Run ```tess_pipeline.py```: this will copy the files in the ```Actor_25``` and ```Actor_26``` folders with a usable naming convention. For details, read the docstrings of ```tess_pipeline.py```.
 
 6) *ONLY IF YOU WANT TO CREATE NEW FEATURES*: run ```create_features.py```. Please note this is NOT necessary as in the ```features``` folder there are already the joblib files created with ```create_features.py```.
-   
+
+https://github.com/user-attachments/assets/862237ee-418a-4508-9200-649c836867f6
+
+
