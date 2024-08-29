@@ -16,24 +16,6 @@ The samples include:
 
 **Metrics**
 
-*Model summary*
-
-![Link to model](media/model.png) 
-
-*Loss and accuracy plots*
-
-![Link to loss](media/test7_2.JPG) 
-
-![Link to accuracy](media/test7_3.JPG)
-
-*Classification report*
-
-![Link do classification report](media/test7_1.JPG)
-
-*Confusion matrix*
-
-![Link do classification report](media/test7_4.JPG)
-
 **How to use the code inside this repository**
 
 1)  ```git clone https://github.com/abhay8463/Speech-Emotion-Recognition-using-ML-and-DL.git ``` OR, as an alternative, all the optional steps below.
