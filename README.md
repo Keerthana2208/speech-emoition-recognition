@@ -18,9 +18,7 @@ The samples include:
 
 **How to use the code inside this repository**
 
-1)  ```git clone https://github.com/abhay8463/Speech-Emotion-Recognition-using-ML-and-DL.git ``` OR, as an alternative, all the optional steps below.
-
-2)  Download Audio_Song_Actors_01-24.zip and Audio_Speech_Actors_01-24.zip, unzip and merge the content of the folders (e.g. Actor_01 should include both Speech and Song) and then add it to the ```features``` folder.
+1)  Download Audio_Song_Actors_01-24.zip and Audio_Speech_Actors_01-24.zip, unzip and merge the content of the folders (e.g. Actor_01 should include both Speech and Song) and then add it to the ```features``` folder.
 
 2)  Create two empty folders, ```Actor_25``` and ```Actor_26```, into the ```features``` folder.
 
@@ -35,8 +33,5 @@ The format you need to have to make the following steps work is:
     ```
 4)  Run ```tess_pipeline.py```: this will copy the files in the ```Actor_25``` and ```Actor_26``` folders with a usable naming convention. For details, read the docstrings of ```tess_pipeline.py```.
 
-6) *ONLY IF YOU WANT TO CREATE NEW FEATURES*: run ```create_features.py```. Please note this is NOT necessary as in the ```features``` folder there are already the joblib files created with ```create_features.py```.
-
-https://github.com/user-attachments/assets/862237ee-418a-4508-9200-649c836867f6
 
 
